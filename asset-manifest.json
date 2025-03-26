@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stopwatch-App-React/static/css/main.3b4bfcbd.css",
+    "main.js": "/Stopwatch-App-React/static/js/main.3e159e23.js",
+    "static/js/453.ebcde135.chunk.js": "/Stopwatch-App-React/static/js/453.ebcde135.chunk.js",
+    "index.html": "/Stopwatch-App-React/index.html",
+    "main.3b4bfcbd.css.map": "/Stopwatch-App-React/static/css/main.3b4bfcbd.css.map",
+    "main.3e159e23.js.map": "/Stopwatch-App-React/static/js/main.3e159e23.js.map",
+    "453.ebcde135.chunk.js.map": "/Stopwatch-App-React/static/js/453.ebcde135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b4bfcbd.css",
+    "static/js/main.3e159e23.js"
+  ]
+}
