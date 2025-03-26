@@ -1,19 +1,27 @@
-# Stopwatch App
+# ⏱️ Stopwatch App
 
-## ⏸️🕒 Live Demo
+## 🚀 Live Demo
 
 [Click here to view the demo](https://Darshanas17.github.io/Stopwatch-App-React/)
 
+### Refer to the image below:
+
+<br/>
+<div style="text-align: center;">
+<img src="https://assets.ccbp.in/frontend/content/react-js/stopwatch-output-v2.gif" alt="stopwatch output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>
+
 ## 📌 Overview
 
-The **Stopwatch App** is a simple yet efficient React application that allows users to start, stop, and reset a timer with a clean and responsive user interface.
+The **Stopwatch App** is a simple and interactive React application that allows users to start, stop, and reset a stopwatch. It demonstrates the use of React state and event handling.
 
 ## ✨ Features
 
-- **Start Stopwatch:** Click the **Start** button to begin the timer.
-- **Stop Stopwatch:** Click the **Stop** button to pause the timer.
-- **Reset Stopwatch:** Click the **Reset** button to set the timer back to zero.
-- **Responsive Design:** Optimized for different screen sizes.
+- **Start Stopwatch:** Start the timer with a single click.
+- **Stop Stopwatch:** Pause the timer anytime.
+- **Reset Stopwatch:** Reset the timer back to zero.
+- **Responsive Design:** Works smoothly across all screen sizes.
 
 ## 🛠️ Tech Stack
 
@@ -41,37 +49,26 @@ Follow these steps to set up the project locally:
 
 ## 📁 Components Structure
 
-The application consists of the following components:
+The application consists of the following component:
 
 - **Stopwatch** (`src/components/Stopwatch/`)
 
 ## 🎯 Functionality
 
-- Clicking the **Start** button starts the timer.
-- Clicking the **Stop** button pauses the timer.
-- Clicking the **Reset** button resets the timer to zero.
+- Click **Start** to begin counting time.
+- Click **Stop** to pause the timer.
+- Click **Reset** to reset the timer to zero.
 
 ## 🎨 Design & Assets
 
 - UI designed using **Roboto** font.
 - Colors used:
-  - `#ffffff` (Background)
-  - `#333333` (Text)
-  - `#1db05f` (Start Button)
-  - `#ef0d36` (Stop Button)
-  - `#eaa800` (Reset Button)
+  - `#ffffff` (White)
+  - `#333333` (Dark Grey)
+  - `#1db05f` (Green - Start Button)
+  - `#ef0d36` (Red - Stop Button)
+  - `#eaa800` (Yellow - Reset Button)
 - Icons and images sourced from: [CCBP Assets](https://assets.ccbp.in/frontend/react-js/)
-
-## 💡 Quick Tips
-
-- Use `Math.floor()` to round down numbers:
-  ```js
-  console.log(Math.floor(5.95)); // Output: 5
-  ```
-- Apply a shadow effect using CSS:
-  ```css
-  box-shadow: 0px 4px 16px 0px #bfbfbf;
-  ```
 
 ## 👨‍💻 Author
 
@@ -80,6 +77,6 @@ The application consists of the following components:
 - [LinkedIn](https://www.linkedin.com/in/darshan-a-s/)
 - [Portfolio](https://darshanas17.github.io/darshan-as-17-portfolio/)
 
-## 🐟 License
+## 📜 License
 
 This project is licensed under the **MIT License**.
